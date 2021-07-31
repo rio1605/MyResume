@@ -1,64 +1,56 @@
 {
-	"Name": "Raghvendra Singh Deval",
-	"Email": "raghav16052k@gmail.com",
-	"DOB": "16-05-2000",
-	"Education": [{
-			"Examination": "Matriculation",
-			"Board": "CBSE",
-			"Institute": "J.H.Ambani, Surat",
-			"Passing year": "2016",
-			"CGPA / %": "9.6"
-
+	"basics": {
+		"name": "Raghvendra Singh",
+		"label": "Student",
+		"email": "raghav16052k@gmail.com",
+		"phone": "7016210479",
+		"location": {
+			"address": "237, Dadu marg, Barkat nagar, near Tonk phatak",
+			"postalCode": "302015",
+			"city": "Jaipur",
+			"countryCode": "India",
+			"region": "Rajasthan"
 		},
-		{
-			"Examination": "Intermediate",
-			"Board": "CBSE",
-			"Institute": "DAV, Jaipur",
-			"Passing year": "2018",
-			"CGPA / %": "91.6"
-
-		},
-		{
-			"Examination": "Graduation",
-			"Board": "IIIT Kota",
-			"Institute": "IIIT Kota",
-			"Passing year": "2022",
-			"CGPA / %": "8.21"
-
-		}
-
-	],
-
-	"Technical Skills": {
-		"Programming Languages": ["Python", "SQL", "Java", "HTML", "CSS"],
-		"Platforms": ["Django", "PyCharm", "Jupyter"]
-
-
+		"profiles": [{
+				"network": "Twitter",
+				"username": "handle",
+				"url": "https://www.twitter.com/<handle>"
+			},
+			{
+				"network": "Github",
+				"username": "handle",
+				"url": "https://www.github.com/<handle>/"
+			},
+			{
+				"network": "linkedin",
+				"username": "username",
+				"url": "https://www.linkedin.com/in/<username>/"
+			},
+			{
+				"network": "Instagram",
+				"username": "raghav_1605_2k",
+				"url": "https://instagram.com/<handle>"
+			}
+		]
 	},
-	"Key Projects": [{
-			"Project": "Basic Blog",
-			"Project Type": "Backend Web Development"
-
-		},
-		{
-			"Project": "Real Estate Prediction",
-			"Project Type": "Exploratory Data Analysis"
-
-		},
-		{
-			"Project": "Optical Network Prediction",
-			"Project Type": "Data Science"
-
-		}
-
-	]
-
-
-
-
-
-
-
-
-
+	"education": [{
+		"institution": "Indian Institute of Information technology,kota",
+		"area": "Engineering",
+		"studyType": "Bachelor (hons)",
+		"startDate": "2018-04-08 //Date",
+		"endDate": "----",
+		"gpa": "8.21",
+		"courses": [
+			"Electronics and Communication Engineering"
+		]
+	}],
+	skills": [{
+		"level": "Master",
+		"keywords": ["Python","MySQL","Django","HTML", "CSS","Java"]
+	}],
+	"interests": [{
+		"name": "Technical",
+		"keywords": ["Data Science","Backend Web Development"]
+	}],
+	"references": []
 }
