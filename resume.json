@@ -1,0 +1,64 @@
+{
+	"Name": "Raghvendra Singh Deval",
+	"Email": "raghav16052k@gmail.com",
+	"DOB": "16-05-2000",
+	"Education": [{
+			"Examination": "Matriculation",
+			"Board": "CBSE",
+			"Institute": "J.H.Ambani, Surat",
+			"Passing year": "2016",
+			"CGPA / %": "9.6"
+
+		},
+		{
+			"Examination": "Intermediate",
+			"Board": "CBSE",
+			"Institute": "DAV, Jaipur",
+			"Passing year": "2018",
+			"CGPA / %": "91.6"
+
+		},
+		{
+			"Examination": "Graduation",
+			"Board": "IIIT Kota",
+			"Institute": "IIIT Kota",
+			"Passing year": "2022",
+			"CGPA / %": "8.21"
+
+		}
+
+	],
+
+	"Technical Skills": {
+		"Programming Languages": ["Python", "SQL", "Java", "HTML", "CSS"],
+		"Platforms": ["Django", "PyCharm", "Jupyter"]
+
+
+	},
+	"Key Projects": [{
+			"Project": "Basic Blog",
+			"Project Type": "Backend Web Development"
+
+		},
+		{
+			"Project": "Real Estate Prediction",
+			"Project Type": "Exploratory Data Analysis"
+
+		},
+		{
+			"Project": "Optical Network Prediction",
+			"Project Type": "Data Science"
+
+		}
+
+	]
+
+
+
+
+
+
+
+
+
+}
