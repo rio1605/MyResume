@@ -44,7 +44,7 @@
 			"Electronics and Communication Engineering"
 		]
 	}],
-	skills": [{
+	"skills": [{
 		"level": "Master",
 		"keywords": ["Python","MySQL","Django","HTML", "CSS","Java"]
 	}],
