@@ -11,19 +11,10 @@
 			"countryCode": "India",
 			"region": "Rajasthan"
 		},
-		"profiles": [{
-				"network": "Twitter",
-				"username": "handle",
-				"url": "https://www.twitter.com/<handle>"
-			},
-			{
-				"network": "Github",
-				"username": "handle",
-				"url": "https://www.github.com/<handle>/"
-			},
+		"profiles": [
 			{
 				"network": "linkedin",
-				"username": "username",
+				"username": "raghvendra-singh-deval-8bb796218",
 				"url": "https://www.linkedin.com/in/<username>/"
 			},
 			{
