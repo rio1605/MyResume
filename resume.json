@@ -42,6 +42,10 @@
 	"interests": [{
 		"name": "Technical",
 		"keywords": ["Data Science","Backend Web Development"]
+	},
+		     {
+		"name": "Hobbies",
+		"keywords": ["Writing Fiction","Reading"]
 	}],
 	"references": []
 }
